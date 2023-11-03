@@ -8,7 +8,7 @@ h1 {
     text-shadow:1px .5px 4px rgba(0, 0, 0, 0.6);
 }
 
-.container{
+.container {
     width: 450px;
     height: 450px;
     background-color: #faebd7;
@@ -47,7 +47,7 @@ h1 {
 
 /*INVIDIUVALLY SELECT A AQUARE IN THE ARRAY*/
 
-.squares:nth-child(1){
+.squares:nth-child(1) {
     background: #4240ff;
 }
 
